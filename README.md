@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:512BD4,100:9b6dff&height=230&section=header&text=Pedro%20Reis&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Estagi%C3%A1rio%20em%20Desenvolvimento%20Back-end%20%7C%20C%23%20e%20.NET&descSize=22&descAlignY=60" width="100%" alt="Pedro Reis - Estagiário em Desenvolvimento Back-end" />
+<img src="banner.png" width="100%" alt="Pedro Reis - Desenvolvedor Back-end | C# e .NET" />
 
 <br/>
 
@@ -33,7 +33,7 @@
 
 </div>
 
-Fala! Eu sou o **Pedro**, **estagiário em desenvolvimento back-end** apaixonado por **C#** e **.NET**. Estudo todos os dias, escrevo código, erro, corrijo e aprendo com cada erro. Meu objetivo é crescer na carreira criando sistemas que funcionem bem e que outras pessoas consigam manter.
+Fala! Eu sou o **Pedro**, **estagiário em desenvolvimento back-end** e estudante de **Análise e Desenvolvimento de Sistemas no SENAC**, apaixonado por **C#** e **.NET**. Estudo todos os dias, escrevo código, erro, corrijo e aprendo com cada erro. Meu objetivo é crescer na carreira criando sistemas que funcionem bem e que outras pessoas consigam manter.
 
 <br/>
 
